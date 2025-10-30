@@ -32,7 +32,7 @@ A modern e-commerce website built with React, Redux, and Tailwind CSS.
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/acxell/softbuy-app.git
 ```
 
 2. Install dependencies
